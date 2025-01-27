@@ -1,0 +1,6 @@
+R0 10
+R1 20
+
+ADD_RR 0 1
+MOV_RM 0 16
+HALT
